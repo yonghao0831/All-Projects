@@ -1,0 +1,1 @@
+within 1 second, there are a lot of icmp request from the same ip address. Because normally ping will take 1 second for each request. This is because there are a lot of requests, so it probably is an attack happening.
